@@ -14,7 +14,7 @@ while True:
         print(get_numbers_ticket(int(input('min:')),int(input('max:')), int(input('quantity:'))))
         break
     except ValueError:
-        print ('Вы ввели некорректные данные')
+        print ('Ви ввели некоректні дані')
    
 
 
